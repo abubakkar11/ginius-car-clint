@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Electrical System",
+      "price": "$52",
+      "img": "https://i.ibb.co/mbqLk0R/1.jpg"
+    },
+    {
+      "title": "Engine Diagnostics",
+      "price": "$52",
+      "img": "https://i.ibb.co/bF9L7hf/2.jpg"
+    },
+    {
+      "title": "Auto Car Repair",
+      "price": "$85",
+      "img": "https://i.ibb.co/DVw3dV2/3.jpg"
+    },
+    {
+      "title": "Electrical System",
+      "price": "$41",
+      "img": "https://i.ibb.co/PZStJN1/4.jpg"
+    },
+    {
+      "title": "Engine Diagnostics",
+      "price": "$78",
+      "img": "https://i.ibb.co/JFBHqTD/5.jpg"
+    },
+    {
+      "title": "Auto Car Repair",
+      "price": "$76",
+      "img": "https://i.ibb.co/m5j9tnj/6.jpg"
+    }
+  ]
